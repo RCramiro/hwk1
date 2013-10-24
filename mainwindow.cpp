@@ -17,6 +17,15 @@ MainWindow::~MainWindow()
 
 void MainWindow::on_pushButton_clicked()
 {
-    std::cout << "pushbutton " << std::endl;
+    std::cout << "pushbutton was clicked" << std::endl;
 }
 
+void MainWindow::on_checkBox_toggled(bool checked)
+{
+    std::cout << "checkBox was toggled to " << (checked ? "true" : "false") << std::endl;
+}
+
+void MainWindow::on_commandLinkButton_clicked()
+{
+    std::cout << "commandLinkButton was clicked" << std::endl;
+}
