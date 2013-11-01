@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>382</width>
-    <height>268</height>
+    <width>227</width>
+    <height>151</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,8 +17,8 @@
    <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
-      <x>40</x>
-      <y>60</y>
+      <x>10</x>
+      <y>10</y>
       <width>114</width>
       <height>32</height>
      </rect>
@@ -30,9 +30,9 @@
    <widget class="QCheckBox" name="checkBox">
     <property name="geometry">
      <rect>
-      <x>210</x>
-      <y>70</y>
-      <width>85</width>
+      <x>130</x>
+      <y>20</y>
+      <width>101</width>
       <height>20</height>
      </rect>
     </property>
@@ -43,8 +43,8 @@
    <widget class="QCommandLinkButton" name="commandLinkButton">
     <property name="geometry">
      <rect>
-      <x>90</x>
-      <y>110</y>
+      <x>30</x>
+      <y>50</y>
       <width>179</width>
       <height>41</height>
      </rect>
@@ -60,7 +60,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>382</width>
+     <width>227</width>
      <height>19</height>
     </rect>
    </property>
